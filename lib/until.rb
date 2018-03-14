@@ -1,6 +1,24 @@
 def using_until
+        
         levitation_force = 6
-        #your code here
-    
-end
+        
+        puts "Wingardium Leviosa"
+        
+        levitation_force = 5
+        
+        puts "Wingardium Leviosa"
+        
+        levitation_force = 4
+        
+        puts "Wingardium Leviosa"
+        
+        levitation_force = 3
+        
+        puts "Wingardium Leviosa"
+        
+        levitation_force = 2
 
+        
+    end
+
+#too easy
